@@ -1,0 +1,25 @@
+# Hashes of file build rules.
+69e3f9580d561fdc810cc26970d62dea direction.pb.h
+b64cf039e2cd510cd7408d4653cf839d drive_state.pb.h
+6167885ade2652205423ec8c47ed5b77 error_code.pb.h
+0b87930b4c33ae4c9cbbc4a6cf7f67db geometry.pb.h
+88341f282b38b3de62f6a02a44fbe2f7 header.pb.h
+84cf512e9565cb0c4a2433402ff97edf map.pb.h
+7097af10e0f9ef96decc3894457f2d29 map_clear_area.pb.h
+47b5f1932c47ccf9776449fb486ce14c map_crosswalk.pb.h
+55a8b689390e2cae6adfc2020fd37b14 map_geometry.pb.h
+77b2e1d73132a8d739b177c24cd9640d map_id.pb.h
+8a44b6a34368486b62bf16fbf1fbd1c6 map_junction.pb.h
+75e0844cdfb5b93ec92277a316add16d map_lane.pb.h
+badad6150372fe5f4495d74f460e16bc map_overlap.pb.h
+83c0706959ade3523aa914d744ad8ed9 map_parking_space.pb.h
+5841c319740dc24529bfc71e2c89044d map_pnc_junction.pb.h
+616ebaaffe97604726a3c9cfd23953a1 map_road.pb.h
+da0a0a841c44f9309bed8644fd0598e8 map_rsu.pb.h
+ef3f1e962d7dedc81b457a29fd7f9b2a map_signal.pb.h
+f579a49f21712d337e0a7938a53af3af map_speed_bump.pb.h
+1a435d27f51af705edf59814bbe46622 map_speed_control.pb.h
+52286c5152ac0404f42bbf463eb13e49 map_stop_sign.pb.h
+d20067873ec13b04efdd53efcceb98ef map_yield_sign.pb.h
+72d99521ba4ab8202e182947432872c9 pnc_point.pb.h
+da226bcb25ac1c77de08717048925940 vehicle_signal.pb.h
